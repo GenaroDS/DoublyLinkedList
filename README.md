@@ -9,11 +9,11 @@ This app doesn't have an user interface, but you can see its console output down
 
 Code:
 
-<img src="DoublyLinkedList screenshots/DLL code.png" alt="Image 1" style="width:50%; display:inline-block;">
+<img src="DoublyLinkedList screenshots/DLL code.png" alt="Image 1" >
 
 Console:
 
-<img src="DoublyLinkedList screenshots/DLL output.png" alt="Image 2" style="width:50%; display:inline-block;">
+<img src="DoublyLinkedList screenshots/DLL output.png" alt="Image 2">
 
 
 </details>
