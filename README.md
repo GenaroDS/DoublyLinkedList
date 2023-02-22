@@ -6,19 +6,14 @@ This app doesn't have an user interface, but you can see its console output down
 
 <details>
  <summary><h3>Console Output</h3></summary>
- 
- 
- <div>
-  <img src="DoublyLinkedList screenshots/DLL code.png" alt="Image 1" style="width:50%; display:inline-block;">
-  <img src="DoublyLinkedList screenshots/DLL output.png" alt="Image 2" style="width:50%; display:inline-block;">
-</div>
+
 Code:
 
-<img src="" alt="Code" width:"400px"/>
+<img src="DoublyLinkedList screenshots/DLL code.png" alt="Image 1" style="width:50%; display:inline-block;">
 
 Console:
 
-<img src="" alt="Output">
+<img src="DoublyLinkedList screenshots/DLL output.png" alt="Image 2" style="width:50%; display:inline-block;">
 
 
 </details>
