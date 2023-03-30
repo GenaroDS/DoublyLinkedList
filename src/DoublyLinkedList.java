@@ -64,6 +64,7 @@ public class DoublyLinkedList {
             System.out.println("The list is now empty.");
         }
     }
+    
 
     public void deleteProduct(Product obj){
         int toDelete = obj.getCode();
