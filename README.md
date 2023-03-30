@@ -11,7 +11,7 @@ Code:
 
 Console:
 
-<img src="DoublyLinkedList screenshots/DLL output.png" alt="Image 2">
+<img src="DoublyLinkedList screenshots/DLL updated output.png" alt="Image 2">
 
 
 </details>
