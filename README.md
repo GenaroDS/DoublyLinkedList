@@ -5,14 +5,7 @@ This app doesn't have a user interface, but you can see its console output below
 <details>
  <summary><h3>Console Output</h3></summary>
 
-Code:
-
-<img src="DoublyLinkedList screenshots/DLL code.png" alt="Image 1" >
-
-Console:
-
 <img src="DoublyLinkedList screenshots/DLL updated output.png" alt="Image 2">
-
 
 </details>
 
