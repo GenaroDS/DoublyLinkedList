@@ -50,10 +50,18 @@ public class DoublyLinkedList {
     public void showList() {
         if (!isEmpty()) {
             DoubleNode aux = head;
+            System.out.print("HEAD -> ");
             while (aux != null) {
-                System.out.println(aux.getValue().toString());
+                System.out.print("[ Product: " + aux.getValue().getDescripcion() + " | Code: " + aux.getValue().getCode() + " | Price: $" + aux.getValue().getPrecio() + " ]");
+                if (aux.hasNext()) {
+                    System.out.print(" <-> ");
+                    System.out.println(" ");
+                }
                 aux = aux.next;
             }
+            System.out.println(" <- TAIL");
+        } else {
+            System.out.println("The list is now empty.");
         }
     }
 
