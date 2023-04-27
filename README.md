@@ -3,10 +3,9 @@ I have implemented a doubly linked list consisting of three classes. The first c
 The implementation also includes error handling, such as displaying an error message if you attempt to use a product code that is already in use.
 This app doesn't have a user interface, but you can see its console output below:
 
-<details>
- <summary><h3>Console Output</h3></summary>
+
+<h3>Console Output</h3>
 
 <img src="DoublyLinkedList screenshots/DLL updated output.png" alt="Image 2">
 
-</details>
 
