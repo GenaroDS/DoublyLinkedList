@@ -6,7 +6,8 @@ The implementation also includes error handling, such as displaying an error mes
 This app doesn't have a user interface, but you can check its console output below:
 
 
-<h3>Console Output</h3>
+<h3>Console Output</h3>  
+
 Checking if adding prodcuts to the list works:  
   
 <img src="screenshots/linkedlist1.png" alt="Image 2">  
