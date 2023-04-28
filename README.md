@@ -8,6 +8,7 @@ This app doesn't have a user interface, but you can check its console output bel
 
 <h3>Console Output</h3>
 
-<img src="DoublyLinkedList screenshots/DLL updated output.png" alt="Image 2">
+<img src="screenshots/linkedlist1.png" alt="Image 2">
+<img src="screenshots/linkedlist2.png" alt="Image 2">
 
 
