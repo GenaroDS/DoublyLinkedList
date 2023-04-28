@@ -9,8 +9,8 @@ This app doesn't have a user interface, but you can check its console output bel
 <h3>Console Output</h3>
 Checking if adding prodcuts to the list works:
 <img src="screenshots/linkedlist1.png" alt="Image 2">  
-
-Then, check if deleting products from the list works:
+  
+Then, check if deleting products from the list works:  
 <img src="screenshots/linkedlist2.png" alt="Image 2">
 
 
